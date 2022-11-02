@@ -20,7 +20,7 @@ string[] FindLess(string[] input, int n) {
         }
     }
 
-    return output
+    return output;
 }
 
 int CountLess(string[] input, int n) {
